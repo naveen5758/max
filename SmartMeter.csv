@@ -1,0 +1,2 @@
+Project,Environment,Component,EmailRecieverList,Targets,User,Service,Port
+SMARTMETER,DEV,Dev_Oracle,Naveen.kumar@gmail.com,18.219.189.55:9100|18.219.189.55:1000,root,Oracle,1521|4118
